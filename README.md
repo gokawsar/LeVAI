@@ -1,5 +1,5 @@
 
-⚡ DIGIFEA LEAD INTELLIGENCE HUB
+⚡ LEAD INTELLIGENCE HUB
 Real-time Clinical Intelligence & Lead Verification Engine
 ===========================================================
 
