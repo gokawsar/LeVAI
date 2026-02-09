@@ -76,6 +76,6 @@ Local Installation:
 - No cloud upload unless manual export is initiated
 
 -----------------------------------------------------------
-Powered by Digifea Intelligence Network
+Powered by  Redb. Network
 Global Signal • v2.5.0 • © 2026
 ===========================================================
